@@ -16,4 +16,4 @@ This organization is the parent organization of:
 1. [AkulAI](https://github.com/Akul-AI)
 2. [Hello World Games](https://github.com/Hello-World-Games)
 
-This is where we post code that is commonly used between our organizations so we can avoid rewriting important code every time. It's also the place where we manage our other organizations.
+This is where we post code that is commonly used between our organizations so we can avoid rewriting important code every time. It's also the place where we manage our other organizations, and put any standalone apps which don't really need their own organization.
